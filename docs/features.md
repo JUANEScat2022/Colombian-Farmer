@@ -1,4 +1,4 @@
-#Funcionalidades de la aplicación
+# Funcionalidades de la aplicación
 Nuestra aplicación incluye las siguientes funcionalidades diseñadas para atender las necesidades de los agricultores colombianos:
 
 ---Acceso a información actualizada:
@@ -20,7 +20,7 @@ Interfaz amigable y personalización:
 Notificaciones importantes sobre cambios climáticos, precios o eventos relevantes.
 Restricciones técnicas
 
-#La aplicación está diseñada para dispositivos Android con sistema operativo versión 8 o superior.
+# La aplicación está diseñada para dispositivos Android con sistema operativo versión 8 o superior.
 La información sobre precios, clima y técnicas agrícolas es de uso gratuito y se obtiene mediante APIs confiables (como OpenWeather y otras locales).
 Los datos del usuario, como notas y configuraciones, serán almacenados de forma local en el dispositivo para garantizar privacidad y acceso offline.
 Funcionalidades de usuario
