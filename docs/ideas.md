@@ -1,51 +1,22 @@
-# Ideas de proyecto
+# Idea 1: Colombian Farmener
+Colombian Farmener es una aplicación diseñada para mejorar la sostenibilidad económica de los pequeños agricultores y ganaderos en Colombia. Proporciona información actualizada sobre prácticas agrícolas, precios de mercado y pronósticos meteorológicos. También conecta a los agricultores con compradores potenciales, ayudándolos a superar los desafíos en la comercialización de productos.
 
-Se proponen las siguientes ideas de aplicación para el proyecto:
+## Problema encontrado
+Los agricultores colombianos enfrentan problemas como acceso limitado a información actualizada sobre prácticas agrícolas, dificultades en la comercialización de productos y falta de recursos técnicos y financieros. Esto limita su capacidad de tomar decisiones informadas, afectando directamente su productividad y sostenibilidad económica.
 
-## Idea 1: UANCasts (seleccionada)
+## Solución proporcionada
+La aplicación ofrece una solución integral que incluye herramientas para acceder a datos actualizados sobre precios de mercado, técnicas agrícolas específicas y pronósticos climáticos. Además, facilita conexiones con compradores y socios comerciales para impulsar la comercialización de productos agrícolas.
 
-UANCasts es una aplicación que permite consultar y escuchar Podcasts de distintas fuentes a través
-de una interfaz de usuario amigable. La aplicación traerá la información de Listen Notes, que es una
-fuente pública de datos de Podcasts en Internet.
+## Modelo de ingresos
+Suscripciones mensuales y anuales para el acceso completo a las funciones avanzadas de la aplicación.
+Servicios premium como asesorías personalizadas y acceso a redes de mercados exclusivos.
+Colaboraciones con empresas comerciales interesadas en conectar con los agricultores.
+Población a la que apuntamos
+La aplicación está dirigida a pequeños agricultores y ganaderos de las zonas rurales de Colombia, con un rango de edad entre 25 y 60 años. Estos usuarios enfrentan desafíos relacionados con la gestión de cultivos y ganado, así como con la toma de decisiones informadas en un entorno de recursos limitados.
 
-### Aplicaciones similares
-
-- [Apple Podcasts](https://apps.apple.com/es/app/apple-podcasts/id525463029)
-- [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts&hl=es_CO&gl=US)
-- [Podcasts Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=es_CO&gl=US)
-- [Stitcher](https://play.google.com/store/apps/details?id=com.stitcher.app&hl=es_CO&gl=US)
-
-## Idea 2: Lorem ipsum dolor sit amet
-
-Lorem ipsum dolor sit amet consectetur adipiscing elit laoreet platea integer, cras vestibulum
-sociis nunc nisl hac tempor sem porttitor magnis inceptos, nibh placerat varius blandit sed egestas
-montes fames diam. Dis non eu fames netus potenti sapien malesuada, eleifend himenaeos morbi ut
-mauris ad, senectus consequat tellus leo donec suspendisse. Ornare convallis facilisis nisi feugiat
-mus vel eros enim senectus, augue nibh nullam elementum conubia imperdiet magnis rutrum, eleifend
-cubilia torquent felis ultricies ut urna tortor. Convallis etiam taciti aenean fringilla orci
-eleifend ad donec, accumsan neque pharetra non venenatis platea risus, sociis ultricies nisi
-vulputate suspendisse a nec.
-
-### Aplicaciones similares
-
-- [App 1](#)
-- [App 2](#)
-- [App 3](#)
-
-## Idea 3: At vero eos et accusamus et iusto
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam
-est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius
-modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima
-veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea
-commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil
-molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-
-### Aplicaciones similares
-
-- [App 1](#)
-- [App 2](#)
-- [App 3](#)
+## Aplicaciones similares
+Agroptima
+FarmLogs
+Agrivi
+Prototipo
+## El prototipo de Colombian Farmener está disponible aquí. Este incluye funcionalidades clave como consultas de precios de mercado, herramientas para mejorar técnicas #agrícolas, y pronósticos meteorológicos detallados en una interfaz amigable.
