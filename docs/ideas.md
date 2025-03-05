@@ -15,8 +15,8 @@ Población a la que apuntamos
 La aplicación está dirigida a pequeños agricultores y ganaderos de las zonas rurales de Colombia, con un rango de edad entre 25 y 60 años. Estos usuarios enfrentan desafíos relacionados con la gestión de cultivos y ganado, así como con la toma de decisiones informadas en un entorno de recursos limitados.
 
 ## Aplicaciones similares
-Agroptima
-FarmLogs
-Agrivi
+Agroptima https://www.agroptima.com/
+FarmLogs https://bushelfarm.com/
+Agrivi https://www.agrivi.com/
 Prototipo
 ## El prototipo de Colombian Farmener está disponible aquí. Este incluye funcionalidades clave como consultas de precios de mercado, herramientas para mejorar técnicas #agrícolas, y pronósticos meteorológicos detallados en una interfaz amigable.
