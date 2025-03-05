@@ -1,43 +1,33 @@
-# Funcionalidades de la aplicación
+#Funcionalidades de la aplicación
+Nuestra aplicación incluye las siguientes funcionalidades diseñadas para atender las necesidades de los agricultores colombianos:
 
-## Restricciones técnicas
+---Acceso a información actualizada:
 
-1. Esta aplicación funcionará en dispositivos Android con sistema operativo versión 8 o superior.
+---Visualización de pronósticos meteorológicos diarios y semanales específicos para la región del usuario.
+Consulta de precios de mercado en tiempo real para cultivos y productos ganaderos.
+Acceso a guías prácticas sobre técnicas agrícolas y ganaderas adaptadas al contexto colombiano.
+Conexión con compradores y mercados:
 
-2. La información usada en la aplicación es de uso gratuito y será obtenida del API
-   de [Listen Notes](https://www.listennotes.com/podcast-api/).
+---Publicación de productos disponibles para la venta, permitiendo que compradores locales se interesen en ellos.
+Acceso a un listado de mercados cercanos con información de horarios y ubicaciones.
+Herramientas prácticas:
 
-3. Cualquier información enviada por el usuario será almacenada de forma local en el dispositivo.
+---Calculadora para estimar costos de producción y márgenes de ganancia de los productos.
+Registro de notas y recordatorios para las actividades diarias del usuario.
+Interfaz amigable y personalización:
 
-## Funcionalidades de usuario
+---Configuración del idioma y personalización del contenido según los cultivos o animales que maneje el usuario.
+Notificaciones importantes sobre cambios climáticos, precios o eventos relevantes.
+Restricciones técnicas
 
-UANCasts le permitirá al usuario consultar e interactuar con Podcasts de distintos tópicos a través
-de una interfaz amigable. El usuario podrá:
+#La aplicación está diseñada para dispositivos Android con sistema operativo versión 8 o superior.
+La información sobre precios, clima y técnicas agrícolas es de uso gratuito y se obtiene mediante APIs confiables (como OpenWeather y otras locales).
+Los datos del usuario, como notas y configuraciones, serán almacenados de forma local en el dispositivo para garantizar privacidad y acceso offline.
+Funcionalidades de usuario
+Los usuarios podrán realizar las siguientes acciones a través de la aplicación:
 
-1. Ver una lista de los podcasts disponibles: Al ingresar a la aplicación verá una lista de los
-   podcasts disponibles en Listen Notes.
-
-2. Seleccionar un podcast ver los episodios disponibles para ese podcast: Desde la pantalla inicial
-   podrá seleccionar cualquier podcast y ver la lista de episodios disponibles. El primer episodio
-   se reproducirá de forma automática.
-
-3. Ir al sitio web del Podcast (si existe): Si el Podcast tiene un sitio web podrá abrirlo en el
-   navegador por defecto en su celular.
-
-4. Reproducir episodios de podcast: Desde la lista de episodios podrá reproducir cualquiera de
-   ellos.
-
-5. Adelantar la reproducción de un podcast: Podrá adelantar la reproducción en intervalos de 15
-   segundos.
-
-6. Retrasar la reproducción de un podcast: Podrá regresar la reproducción en intervalos de 15
-   segundos.
-
-7. Buscar podcasts por nombre: Al ir a la ventana de búsqueda podrá navegar buscando el nombre de su
-   podcast de interés.
-
-8. Votar por los podcasts favoritos: En cada Podcast tendrá una opción para votar por el podcast. La
-   votación será personal y estará disponible solo desde el dispositivo.
-
-9. Ver los podcasts favoritos: Podrá ir a la ventana de favoritos donde verá los Podcasts que ha
-   votado como favoritos en orden de calificación.
+-onsultar información básica: Ver datos actualizados sobre clima, precios de productos agrícolas, y guías técnicas.
+-Conectar con mercados: Publicar productos disponibles y recibir notificaciones de interés de compradores.
+-Gestionar actividades: Registrar notas y recordatorios relacionados con las tareas agrícolas diarias.
+-Personalizar su experiencia: Seleccionar cultivos o productos ganaderos de interés, y filtrar información relevante.
+-Acceder a consejos prácticos: Consultar recomendaciones agrícolas según la temporada y región.
