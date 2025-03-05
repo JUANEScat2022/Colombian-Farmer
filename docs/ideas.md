@@ -1,4 +1,4 @@
-# Idea 1: Colombian Farmener
+# Idea 1: Colombian Farmer
 Colombian Farmener es una aplicación diseñada para mejorar la sostenibilidad económica de los pequeños agricultores y ganaderos en Colombia. Proporciona información actualizada sobre prácticas agrícolas, precios de mercado y pronósticos meteorológicos. También conecta a los agricultores con compradores potenciales, ayudándolos a superar los desafíos en la comercialización de productos.
 
 ## Problema encontrado
