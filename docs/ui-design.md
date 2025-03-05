@@ -12,20 +12,34 @@ presentan las principales pantallas:
 2. ![image](https://github.com/user-attachments/assets/8684617a-a39a-458f-a938-0c59b3e823d3)
 
 
-   Cuando el usuario ingrese a la aplicaicón verá una lista con los podcasts disponibles tomados
-   desde el API.
+   Cuando el usuario ingrese a la aplicaicón verá una lista deopciones y datos relacionados con condiciones climitica enfocadas a la siembra.
+   
 
-   ![Lista de podcasts](images/PodcastList.png)
+   ![image](https://github.com/user-attachments/assets/069278f4-36a2-426f-a0f7-56a1b950464e)
 
-3. Episodios de un Podcast
 
-   Al seleccionar un Podcats, el usuario verá la lista de episodios de ese podcasts y podrá
-   reproducirlos.
+4. Consejos
 
-   ![Lista de episodios](images/EpisodesPlaying.png)
+   Al seleccionar consejos se dirige a la pantalla en la cual puede acceder a preguntas frecuentes o busquedas detalladas
+   
+![image](https://github.com/user-attachments/assets/e2755006-cadc-41c5-8fd9-d2601982783f)
 
-4. Búsqueda podcasts
 
-   Adicionalmente el usuario podrá buscar los Podcasts de su interes usando palabras clave.
+6. Guias
 
-   ![Búsqueda](images/Search.png)
+   Adicionalmente el usuario podrá buscar gias enfocadas a un producto en especifico o condicion u/o probelma relacionado
+ ![image](https://github.com/user-attachments/assets/4e35efd6-39d9-4e96-9444-06daf0278077)
+
+6. Resolucin de problemas
+
+   en este apartado el usuario puede acceder a asesoria personalizada de sus problema o situación.
+   
+   ![image](https://github.com/user-attachments/assets/cfea03cf-9e69-416b-8e0c-9bc85c85f167)
+
+
+   ## Solucion veterinaria
+   
+   ![image](https://github.com/user-attachments/assets/194de45b-a753-4e20-860a-854b4e549559)
+
+
+
